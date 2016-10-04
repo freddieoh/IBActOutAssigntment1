@@ -32,16 +32,9 @@
         
     }]];
     
-    [self presentViewController:alert animated:YES completion:nil];
-
-    
-    
-    
-    
+    [self presentViewController:alert animated:YES completion:nil];  
     
 }
-
-
 
 
 - (void)didReceiveMemoryWarning {
